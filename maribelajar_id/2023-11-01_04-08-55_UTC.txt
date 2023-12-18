@@ -1,0 +1,11 @@
+Jangan lewatkan kesempatan untuk memperluas pengetahuan tentang kecerdasan buatan (AI) dalam pengembangan .NET. Temukan cara memanfaatkan .NET, C#, dan Azure untuk menciptakan aplikasi luar biasa dengan OpenAI serta teknologi AI generatif lainnya. 
+Selain itu, dalam acara ini, kita juga akan membahas penggunaan Visual Studio Code dan C# Dev Kit sebagai alternatif IDE yang lebih ringan dan efisien untuk mengembangkan aplikasi .NET 8, termasuk ASP.NET Core, Blazor, dan .NET MAUI.
+
+Ingin tau keseruannya? Ayo bergabung dalam .Net Conf 2023 Maribelajar yang akan digelar pada:
+
+📆 Tanggal: 28 November 2023
+⏰ Waktu: 19.00 - 21.00 WIB
+
+Daftarkan diri Anda di: go.maribelajar.org/net-conf🚀💻
+
+#NETConf2023 #Maribelajar #Teknologi #NET8 #MaribelajarStory #netconf
